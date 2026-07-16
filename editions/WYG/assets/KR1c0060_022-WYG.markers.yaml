@@ -12,6 +12,7 @@ markers:
       ', id: KR1c0060_WYG_022-bkkkrnewl2}
   - {type: line-break, offset: 7, content: '', id: KR1c0060_WYG_022-1a02}
   - {type: punctuation, offset: 7, content: (, id: KR1c0060_WYG_022-bkkpn1}
+  - {type: voice, offset: 7, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 8, content: /, id: KR1c0060_WYG_022-bkkpn2}
   - {type: punctuation, offset: 8, content: ), id: KR1c0060_WYG_022-bkkpn3}
   - {type: 'kr:newline', offset: 28, content: '
@@ -35,6 +36,7 @@ markers:
       ', id: KR1c0060_WYG_022-bkkkrnewl7}
   - {type: line-break, offset: 112, content: '', id: KR1c0060_WYG_022-1a07}
   - {type: punctuation, offset: 122, content: (, id: KR1c0060_WYG_022-bkkpn4}
+  - {type: voice, offset: 122, length: 11, name: note, id: n2}
   - {type: punctuation, offset: 128, content: /, id: KR1c0060_WYG_022-bkkpn5}
   - {type: punctuation, offset: 133, content: ), id: KR1c0060_WYG_022-bkkpn6}
   - {type: 'kr:newline', offset: 138, content: '
@@ -74,6 +76,7 @@ markers:
       ', id: KR1c0060_WYG_022-bkkkrnewl16}
   - {type: line-break, offset: 285, content: '', id: KR1c0060_WYG_022-1b07}
   - {type: punctuation, offset: 286, content: (, id: KR1c0060_WYG_022-bkkpn7}
+  - {type: voice, offset: 286, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 287, content: /, id: KR1c0060_WYG_022-bkkpn8}
   - {type: punctuation, offset: 287, content: ), id: KR1c0060_WYG_022-bkkpn9}
   - {type: 'kr:newline', offset: 306, content: '
@@ -97,6 +100,7 @@ markers:
       ', id: KR1c0060_WYG_022-bkkkrnewl21}
   - {type: line-break, offset: 364, content: '', id: KR1c0060_WYG_022-2a03}
   - {type: punctuation, offset: 368, content: (, id: KR1c0060_WYG_022-bkkpn10}
+  - {type: voice, offset: 368, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 369, content: /, id: KR1c0060_WYG_022-bkkpn11}
   - {type: punctuation, offset: 369, content: ), id: KR1c0060_WYG_022-bkkpn12}
   - {type: paragraph-break, offset: 374, content: '
@@ -104,4 +108,4 @@ markers:
 
       ', id: KR1c0060_WYG_022-bkkp1}
   back: []
-hash: sha256:ca95f89bff34e5e2f695de2b40d2c77004a9d33a7fbb58f533f7d1c6bbcdeb27
+hash: sha256:d862870f40a7e5cc7b26fbfe1c9579a9fab79419dc0a8093186c7bbba11f29a7
